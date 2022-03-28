@@ -1,0 +1,1 @@
+const img = document.getElementById("myImageID").src = "corgi2.png";
