@@ -1,1 +1,1 @@
-const img = document.getElementById("myImageID").src = "corgi2.png";
+const img = document.querySelector("img").src = "corgi2.png";
